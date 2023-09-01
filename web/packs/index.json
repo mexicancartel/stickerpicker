@@ -1,7 +1,8 @@
 {
   "packs": [
     "Poochayism.json",
-    "Bhatsep.json"
+    "Bhatsep.json",
+    "Thanatospack.json"
   ],
   "homeserver_url": "https://matrix.org"
 }
